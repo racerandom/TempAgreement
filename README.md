@@ -9,7 +9,7 @@
 
 It will show the agreement ratio for each timeml file. Overall krippendorff_alpha and agreement numbers will be listed in final.
 
-Example results:
+# Example results:
 
 Processing timeml file: AQA017_APW19990410.0123.tml  
 agreement per doc: 0.4595  
