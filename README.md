@@ -2,7 +2,7 @@
 * Please install the python library (implemented by Thomas Grill) for calculating Krippendorff’s alpha before executing our code.  
   run "pip install krippendorff"
 
-* Edit "TempAgreement.py" to overwrite "annotator1_dir" and "annotator2_dir" in the main function. "annotator1_dir" and "annotator2_dir" are the absolute paths of two folds including annotation.
+* Edit "TempAgreement.py" to assign "annotator1_dir" and "annotator2_dir" with the values of the absolute paths of two folds including annotation in the main function.
 
 * run "python TempAgreement.py"
 
