@@ -1,5 +1,5 @@
 # TempAgreement
-* Please install the python library (implemented by Thomas Grill) for calculating Krippendorff’s alpha before executing our code.
+* Please install the python library (implemented by Thomas Grill) for calculating Krippendorff’s alpha before executing our code.  
   pip install krippendorff
 
 * Edit "TempAgreement.py" to overwrite "annotator1_dir" and "annotator2_dir" in the main function. "annotator1_dir" and "annotator2_dir" are the absolute paths of two folds including annotation.
