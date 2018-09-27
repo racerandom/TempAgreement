@@ -7,7 +7,7 @@
 * run "python TempAgreement.py"
 
 
-It will show the agreement ratio for each timeml file. Overall krippendorff_alpha and agreement numbers will be listed in final.
+The results will show the agreement ratio for each timeml file. Overall krippendorff_alpha and agreement numbers will be listed in the final.
 
 ## Example results:
 
