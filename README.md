@@ -1,6 +1,7 @@
 # TempAgreement
 * Please install the python library (implemented by Thomas Grill) for calculating Krippendorff’s alpha before executing our code.  
-  run "pip install krippendorff"
+  clone https://github.com/grrrr/krippendorff-alpha into a folder
+  run "python setup.py install" in the folder
 
 * Edit "TempAgreement.py" to assign "annotator1_dir" and "annotator2_dir" with the absolute paths of two folds including annotation in the main function.
 
